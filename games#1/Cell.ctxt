@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ Contains\ a\ valid\ Sudoku\ number\ and\ uses\ an\ image\ to\ display\ to\ the\ world.\r\n\ May\ contain\ a\ zero\ to\ denote\ the\ fact\ that\ the\ cell\ is\ empty.\r\n\ \r\n\ @Noah\ Keck\r\n\ @v1.2.2\r\n\ @2/16/2018\r\n
+comment1.params=row\ column
+comment1.target=Cell(int,\ int)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=int\ getHiddenNum()
+comment4.params=number
+comment4.target=void\ setNum(int)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ clickCheck()
+numComments=7
